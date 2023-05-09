@@ -13,7 +13,7 @@ For example, here I typed in `grep -r "truth"`. I expect it to search for the wo
 
 We can see that `grep -r "truth"` searched through all the files in the technical directory and showed all the lines in the files that contains "truth". 
 
-Another example of `grep -r' working is when I typed in `grep -r "hummingbirds"`. It should search for the word "hummingbirds" recursively in the current directoy.
+Another example of `grep -r` working is when I typed in `grep -r "hummingbirds"`. It should search for the word "hummingbirds" recursively in the current directoy.
 
 ![Image](Screenshot 2023-05-08 173750.png)
 
